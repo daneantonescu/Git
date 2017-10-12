@@ -19,7 +19,7 @@ namespace Git_Test_App
         static void FeatureD()
         {
             Console.WriteLine("Feature D.03");
-            Console.WriteLine("dev01");
+            Console.WriteLine("dev1.02");
         }
     }
 }
