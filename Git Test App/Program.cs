@@ -8,7 +8,7 @@ namespace Git_Test_App
         {
             Console.WriteLine("Git Test App");
 
-            Console.WriteLine("Feature B.01");
+            Console.WriteLine("Feature B.02");
         }
     }
 }
