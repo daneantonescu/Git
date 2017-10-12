@@ -10,10 +10,15 @@ namespace Git_Test_App
 
             Console.WriteLine("Feature A.02");
             Console.WriteLine("Feature B.02");
-
             Console.WriteLine("Feature C.01");
+            FeatureD();
 
             Console.Read();
+        }
+
+        static void FeatureD()
+        {
+            Console.WriteLine("Feature D.01");
         }
     }
 }
