@@ -13,7 +13,15 @@ namespace Git_Test_App
 
             Console.WriteLine("Feature C.01");
 
+            MakeSomething();
+
             Console.Read();
+        }
+
+
+        private static void MakeSomething()
+        {
+            Console.WriteLine("Feature E.01");
         }
     }
 }
