@@ -7,6 +7,8 @@ namespace Git_Test_App
         static void Main(string[] args)
         {
             Console.WriteLine("Git Test App");
+
+            Console.WriteLine("Feature A.01");
         }
     }
 }
