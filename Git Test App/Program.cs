@@ -21,7 +21,7 @@ namespace Git_Test_App
             Console.WriteLine("Feature D.09");
             Console.WriteLine("dev1.04");
             Console.WriteLine("dev2.02");
-            Console.WriteLine("dev3.01");
+            Console.WriteLine("dev3.02");
         }
     }
 }
