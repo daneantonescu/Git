@@ -11,6 +11,8 @@ namespace Git_Test_App
             Console.WriteLine("Feature A.04");
             Console.WriteLine("Feature B.02");
 
+            Console.WriteLine("Feature Cr.A.01");
+
             Console.Read();
         }
     }
