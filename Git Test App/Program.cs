@@ -12,6 +12,8 @@ namespace Git_Test_App
             Console.WriteLine("Feature B.02");
             Console.WriteLine("Feature C.01");
 
+            Console.WriteLine("Feature M.01");
+
             MakeSomething();
 
             Console.Read();
@@ -22,5 +24,6 @@ namespace Git_Test_App
         {
             Console.WriteLine("Feature E.01");
         }
+        
     }
 }
