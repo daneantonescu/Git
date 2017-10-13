@@ -22,7 +22,7 @@ namespace Git_Test_App
 
         private static void MakeSomething()
         {
-            Console.WriteLine("Feature E.01");
+            Console.WriteLine("Feature E.01 with 02");
         }
         
     }
